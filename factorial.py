@@ -1,4 +1,4 @@
-a=5
+a=2
 b=1
 for i in range(1,a+1):
   b*=i

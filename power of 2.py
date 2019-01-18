@@ -1,0 +1,11 @@
+a=64
+i=0
+b=2
+while(b<=a):
+    b=2**i
+    if(b==a):
+        print("yes")
+        break
+    i+=1
+else:
+    print("no")
